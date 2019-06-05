@@ -1,0 +1,7 @@
+name: one
+version: 0.0.1
+description: A sample command-line application
+dependencies:
+
+dev_dependencies:
+#  unittest: any
